@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reminder</string>
+    <string name="time_title">提醒时间</string>
+    <string name="thing_title">添加事件</string>
+    <string name="reminder_save">保存</string>
+    <string name="time_hint">请输入事件提醒整点时间</string>
+    <string name="thing_hint">请输入提醒事件</string>
+</resources>
